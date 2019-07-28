@@ -21,8 +21,7 @@
 #
 # print("The exchange will be: ", num_of_shekel / float(exchange), "US Dollar")
 # print("Thanks for using our currency converter")
-# 123456789
-# 33
+# 3434343434
 
 import urllib.request, json
 def get_data_from_url(url):
