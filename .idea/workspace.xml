@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7415ea34-4acc-4fcd-b4a4-cb906dfe3c25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="182">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -79,8 +80,8 @@
         <option value="$PROJECT_DIR$/venv/homework-5.py" />
         <option value="$PROJECT_DIR$/homework-5.py" />
         <option value="$PROJECT_DIR$/buyme.py" />
-        <option value="$PROJECT_DIR$/5-2.py" />
         <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/5-2.py" />
       </list>
     </option>
   </component>
@@ -346,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="182">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
